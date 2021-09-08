@@ -6,7 +6,7 @@ Simple example of how to download URL contents in parrallel with multithreading.
 
 Install Go on your computer/server
 
-Then tun :
+Then run :
 ```bash
 go mod tidy
 go run .
